@@ -26,17 +26,17 @@ hit <escape>
 	
 5) become root
 
-   sudo bash
+    sudo bash
    
 6) install the script
 
-   nano /bin/installPB
+    nano /bin/installPB
    
 Cut and paste the script into this file
 
 7) make it executable
 
-   chmod +x /bin/installPB
+    chmod +x /bin/installPB
    
 8) run it as root
 
