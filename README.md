@@ -1,5 +1,13 @@
 This is the official script to install PiBang to a vanilla Rasbian Image.
 
+########################################################################
+#                                                                      #
+#       Until I remove this it is here for development only            #
+#                                                                      #
+########################################################################
+
+
+
 THIS ABSOLUTLEY WILL NOT WORK ON AN IMAGE THAT IS NOT NEW
 If you choose to try this on an image that is not new it WILL require
 modification, otherwise it will ruin your day and train your cat to shit
