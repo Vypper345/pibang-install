@@ -20,10 +20,10 @@ on your pillow. You have been warned.
 
 Usage instructions:
 
-1) Install Rasbian on a card that is AT LEAST 4GB, less will not work.
+1) Install Raspbian on a card that is AT LEAST 4GB, less will not work.
 
-    sudo dd bs=1M if=Rabian.img of=/dev/sdcard
-    
+    sudo dd bs=1M if=Raspbian.img of=/dev/sdcard
+    s
 2) Eject card and re-insert. Then resize with Gparted, and expand the 
 ext4 partition to the remainder of the drive
 
