@@ -1,10 +1,13 @@
 This is the official script to install PiBang to a vanilla Rasbian Image.
 
+
 ########################################################################
 #                                                                      #
 #       Until I remove this it is here for development only            #
 #                                                                      #
 ########################################################################
+
+
 
 
 
@@ -16,6 +19,7 @@ on your pillow. You have been warned.
 
 
 Usage instructions:
+
 1) Install Rasbian on a card that is AT LEAST 4GB, less will not work.
 
     sudo dd bs=1M if=Rabian.img of=/dev/sdcard
