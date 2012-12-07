@@ -30,7 +30,7 @@ ext4 partition to the remainder of the drive
 	sudo gparted
 	
 3) Boot the Raspberry Pi with the new card. At the config screen,
-hit <escape>
+hit escape
 
 4) ssh into the Pi from your main computer. 
 	user:pi
