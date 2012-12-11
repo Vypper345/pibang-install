@@ -24,6 +24,7 @@ sleep 3s
 apt-get install -y aptitude
 apt-get install --no-install-recommends -y xserver-xorg-video-fbdev
 apt-get install --no-install-recommends -y xserver-xorg xinit
+# Switching to aptitude from apt-get.
 aptitude install -y openbox obmenu obconf 
 aptitude install -y abiword abiword-common abiword-plugin-grammar abiword-plugin-mathview blueman catfish network-manager-gnome midori dmenu
 aptitude install -y gmrun geany catfish htop gimp gpicview gftp transmission-gtk xchat gigolo abiword evince arandr lxappearance gparted dosfstools obmenu obconf tint2 nitrogen conky synaptic xcompmgr gmrun xfce4-screenshooter ceni arandr gimp deadbeef xfce4-notifyd 
